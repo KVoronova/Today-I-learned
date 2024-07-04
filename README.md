@@ -1,6 +1,6 @@
-Link WEB-App  https://newfactseveryday.netlify.app/
+Individual educational Web application https://newfactseveryday.netlify.app/
 
-Web application (react, supabase, js, css)
+Tech stack: React, JS, CSS, Supabase
 
 
 
